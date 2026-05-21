@@ -152,7 +152,7 @@
   .cta-final-buttons { display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap; }
   footer { background: var(--espresso); color: var(--cream); padding: 6rem 3rem 2rem; }
   .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 4rem; margin-bottom: 4rem; }
-  .footer-brand h3 { font-family: 'Fraunces', serif; font-size: 2rem; font-weight: 400; margin-bottom: 1rem; }
+  .footer-brand { h3 { font-family: 'Fraunces', serif; font-size: 2rem; font-weight: 400; margin-bottom: 1rem; } }
   .footer-brand h3 em { font-style: italic; color: var(--peach); }
   .footer-brand p { color: rgba(250, 246, 241, 0.6); line-height: 1.7; font-size: 0.95rem; max-width: 380px; }
   .footer-col h4 { font-size: 0.78rem; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 1.4rem; color: var(--peach); }
